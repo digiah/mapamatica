@@ -3,7 +3,7 @@ inout csv and a map comes out
 
 ## Parts
 
-1. CSV
+1. [CSV](upload.csv)
     - Lat
     - Long
     - Desc
