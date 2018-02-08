@@ -1,5 +1,5 @@
 # mapamatica
-inout csv and a map comes out
+input csv and a map comes out
 
 ## Parts
 
